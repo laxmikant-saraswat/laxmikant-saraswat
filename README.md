@@ -4,9 +4,9 @@
 <h3 align="center">Full Stack Web Developer at Affworld Technologies Pvt Ltd. 2+ Year of Experience at FrontEnd & Backend Developement using React js/ Next js and Node js also manages AWS Cloud of Organisation</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on **Crew-Rental Construction Web Application**
+- 🔭 I’m currently working with **Wisewaytec as Software Engineer**
 
-- 👨‍💻 All of my projects are available at [laxmikant.co](https://laxmikant.online)
+- 👨‍💻 All of my projects are available at [laxmikant.online](https://laxmikant.online)
 
 - 📫 How to reach me **laxmikant@wisewaytec.com**
 
